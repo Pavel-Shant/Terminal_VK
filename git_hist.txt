@@ -1,0 +1,150 @@
+    1  ls 
+    2  ls -la
+    3  ls -la
+    4  cd 
+    5  ls
+    6  pwd
+    7  cd ~
+    8  pwg
+    9  pwd
+   10  ls
+   11  cd Documents/
+   12  pwd
+   13  ..
+   14  .
+   15  cd .
+   16  pwd
+   17  cd ..
+   18  pwd
+   19  pwd
+   20  ls
+   21  ls -la
+   22  ls ~
+   23  pwd
+   24  ls 
+   25  pwd
+   26  ls -la
+   27  touch Text.txt
+   28  ды
+   29  ls
+   30  mkdir First-project
+   31  touch data.txt tables.csv First-project/
+   32  ls
+   33  mv tables.csv First-project/
+   34  mv data.txt First-project/
+   35  rm Text.txt 
+   36  cd First-project/
+   37  lss
+   38  ls
+   39  cp data.txt ~
+   40  cd ~
+   41  ls
+   42  ped
+   43  pwd
+   44  cd Desktop/First-project/
+   45  pwd
+   46  mkdir Very-important-files
+   47  ls
+   48  ls
+   49  mv tables.csv Very-important-files/
+   50  ls
+   51  cd Very-important-files/
+   52  ls
+   53  cd .
+   54  ls
+   55  pwd
+   56  cd ..
+   57  ls
+   58  cd ..
+   59  touch text.txt
+   60  ls
+   61  cat text.txt
+   62  mk dir Shant 
+   63  mkdir Shant 
+   64  mkdir 1988
+   65  touch Work.txt Home.txt
+   66  ls
+   67  mv Home.txt Work.txt text.txt First-project/
+   68  pwd
+   69  ls
+   70  rm Shant/
+   71  rm r Shant/
+   72  rm -rf Shant/
+   73  rm -rf 1988/
+   74  ls
+   75  cd ~
+   76  cd Desktop/
+   77  cd && ls
+   78  pwd
+   79  ls
+   80  git version
+   81  git config --global user.name "PShant"
+   82  git config --global user.email 1988tcyigan@mail.ru
+   83  git config
+   84  git config --list
+   85  git status
+   86  ls
+   87  ls -la
+   88  git stash
+   89  git pull
+   90  git stash pop
+   91  git remote add origin https://github.com/Pavel-Shant/QA.git
+   92  git version
+   93  git config --global user.name "Pavel_Shant"
+   94  git status
+   95  git clone https://github.com/Pavel-Shant/QA.git
+   96  ls
+   97  pwd
+   98  git 
+   99  git status
+  100  [200~sh-keygen -t rsa~
+  101  ssh-keygen -t rsa
+  102  ssh-keygen -t rsa
+  103  git status
+  104  ls -la
+  105  ls
+  106  pwf
+  107  pwd
+  108  git status
+  109  git branch
+  110  git checkout main
+  111  ls -la
+  112  git fetch
+  113  git pull
+  114  ls -la   
+  115  pwd
+  116  ls -la
+  117  git fetch
+  118  git pull
+  119  cat payments.xml 
+  120  cat payments.xml 
+  121  git fetch 
+  122  git config pull.rebase true
+  123  git pull
+  124  vim transact.json 
+  125  git vommit -m "p"
+  126  git commit -m "p"
+  127  git add
+  128  git add .
+  129  git commit -m "p"
+  130  git fetch 
+  131  git fetch
+  132  git pull
+  133  history -a
+  134  bash history
+  135  history 
+  136  bash history
+  137  history
+  138  git status
+  139  git log
+  140  hisstory
+  141  history
+  142  cat history.txt
+  143  vim
+  144  git diff
+  145  git diff master feature
+  146  git branch
+  147  git rebase --continue
+  148  git branch
+  149  git history >git_hist.txt
+  150  history >git_hist.txt
